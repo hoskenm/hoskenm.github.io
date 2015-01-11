@@ -61,7 +61,6 @@
 
 	.row {
 		border-bottom: solid 1px transparent;
-		height: 300px;
 	}
 
 	.row > * {
@@ -240,7 +239,7 @@
 		.\-9u { margin-left: 75% }
 		.\-8u { margin-left: 66.6666666667% }
 		.\-7u { margin-left: 58.3333333333% }
-		.\-6u { margin-left: 50% }
+		.\-6u { margin-left: 50%; height: 300px; }
 		.\-5u { margin-left: 41.6666666667% }
 		.\-4u { margin-left: 33.3333333333% }
 		.\-3u { margin-left: 25% }

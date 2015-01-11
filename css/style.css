@@ -906,7 +906,8 @@
 				top: 0;
 				left: 0;
 				opacity: 1.0;
-
+				padding: 10px;
+				
 				-moz-transition: all 1s ease;
 				-webkit-transition: all 1s ease;
 				-o-transition: all 1s ease;
@@ -925,6 +926,7 @@
 
 				#work .row.images.inactive .image {
 					opacity: 0;
+					
 				}
 
 				#work .row.images.inactive .image.from-left {

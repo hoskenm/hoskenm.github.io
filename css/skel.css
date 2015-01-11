@@ -61,6 +61,7 @@
 
 	.row {
 		border-bottom: solid 1px transparent;
+		height: 300px;
 	}
 
 	.row > * {
